@@ -1,0 +1,26 @@
+- class_name: 友情链接
+  class_desc: 那些每天都在学习的带佬们....
+  link_list:
+    - name: in1t
+      link: https://in1t.top
+      avatar: https://in1t.top/img/avatar.jpg
+      descr: 一只对二进制感兴趣的菜鸡
+    - name: dengfeng
+      link: https://love-deng-feng.top
+      avatar: https://love-deng-feng.top/img/%E7%AD%89%E9%A3%8E.png
+      descr: 密码学的扛把子
+# - class_name: 网站
+#   class_desc: 值得推荐的网站
+#   link_list:
+#     - name: Laohoo @gitee.io
+#       link: https://hujiyi.gitee.io/
+#       avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+#       descr: 博客网站
+#     - name: Weibo
+#       link: https://www.weibo.com/
+#       avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+#       descr: 中国最大社交分享平台
+#     - name: Twitter
+#       link: https://twitter.com/
+#       avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+#       descr: 社交分享平台
